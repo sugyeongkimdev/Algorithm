@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Code\learn_lessons\42748.cs" />
     <Compile Include="Code\learn_lessons\42840.cs" />
+    <Compile Include="Code\learn_lessons\42862.cs" />
     <Compile Include="Code\Main.cs" />
     <Compile Include="Code\learn_lessons\42583.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
