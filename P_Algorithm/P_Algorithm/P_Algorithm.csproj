@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Compile Include="Code\learn_lessons\12903.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Code\skill_checks\" />
