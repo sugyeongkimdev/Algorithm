@@ -61,6 +61,7 @@
     <Compile Include="Code\learn_lessons\HighScoreKit\Sort\42748.cs" />
     <Compile Include="Code\learn_lessons\HighScoreKit\BruteForceSearch\42840.cs" />
     <Compile Include="Code\learn_lessons\HighScoreKit\GreedySearch\42862.cs" />
+    <Compile Include="Code\learn_lessons\Levels\Level1\12935.cs" />
     <Compile Include="Code\Main.cs" />
     <Compile Include="Code\learn_lessons\HighScoreKit\StackQueue\42583.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
