@@ -53,6 +53,7 @@
     <Compile Include="Code\learn_lessons\12922.cs" />
     <Compile Include="Code\learn_lessons\12925.cs" />
     <Compile Include="Code\learn_lessons\12926.cs" />
+    <Compile Include="Code\learn_lessons\12928.cs" />
     <Compile Include="Code\learn_lessons\42748.cs" />
     <Compile Include="Code\learn_lessons\42840.cs" />
     <Compile Include="Code\learn_lessons\42862.cs" />
