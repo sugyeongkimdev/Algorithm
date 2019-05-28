@@ -47,6 +47,7 @@
     <Compile Include="Code\learn_lessons\12910.cs" />
     <Compile Include="Code\learn_lessons\12912.cs" />
     <Compile Include="Code\learn_lessons\12915.cs" />
+    <Compile Include="Code\learn_lessons\12917.cs" />
     <Compile Include="Code\learn_lessons\42748.cs" />
     <Compile Include="Code\learn_lessons\42840.cs" />
     <Compile Include="Code\learn_lessons\42862.cs" />
