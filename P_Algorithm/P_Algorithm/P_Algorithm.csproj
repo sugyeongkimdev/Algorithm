@@ -67,6 +67,7 @@
     <Compile Include="Code\learn_lessons\Levels\Level1\12943.cs" />
     <Compile Include="Code\learn_lessons\Levels\Level1\12944.cs" />
     <Compile Include="Code\learn_lessons\Levels\Level1\12947.cs" />
+    <Compile Include="Code\learn_lessons\Levels\Level1\12948.cs" />
     <Compile Include="Code\Main.cs" />
     <Compile Include="Code\learn_lessons\HighScoreKit\StackQueue\42583.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
