@@ -1,4 +1,4 @@
-﻿// 핸드폰 번호 가리기
+﻿// 행렬의 덧셈
 // https://programmers.co.kr/learn/courses/30/lessons/12948
 
 namespace P_Algorithm_12950 {
