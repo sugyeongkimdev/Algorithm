@@ -72,6 +72,7 @@
     <Compile Include="Code\learn_lessons\Levels\Level1\12954.cs" />
     <Compile Include="Code\learn_lessons\Levels\Level1\12969.cs" />
     <Compile Include="Code\learn_lessons\Levels\Level1\12982.cs" />
+    <Compile Include="Code\learn_lessons\Levels\Level2\42586.cs" />
     <Compile Include="Code\learn_lessons\Levels\Level2\42588.cs" />
     <Compile Include="Code\learn_lessons\Levels\Level2\49993.cs" />
     <Compile Include="Code\Main.cs" />
