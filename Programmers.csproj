@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Script\learn_lessons\Levels\Level1\Solution77484.cs" />
     <Compile Include="Script\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Script\learn_lessons\HighScoreKit\BruteForceSearch\Solution42840.cs" />
