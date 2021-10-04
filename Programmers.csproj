@@ -59,6 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Script\learn_lessons\Levels\Level1\Solution86051.cs" />
     <Compile Include="Script\learn_lessons\Levels\Level1\Solution81301.cs" />
     <Compile Include="Script\learn_lessons\Levels\Level1\Solution77484.cs" />
     <Compile Include="Script\Program.cs" />
