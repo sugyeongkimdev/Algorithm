@@ -71,6 +71,7 @@
     <Compile Include="Script\learn_lessons\Levels\Level2\Solution181187.cs" />
     <Compile Include="Script\learn_lessons\Levels\Level2\Solution181188.cs" />
     <Compile Include="Script\learn_lessons\Levels\Level3\Solution161988.cs" />
+    <Compile Include="Script\Solution00000.cs" />
     <Compile Include="Script\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Script\learn_lessons\HighScoreKit\BruteForceSearch\Solution42840.cs" />
