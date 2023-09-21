@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F331D67A-2429-4C52-ABF2-16CAC93BEA4C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Programmers</RootNamespace>
+    <AssemblyName>Programmers</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Project\Programmers.cs" />
+    <Compile Include="Project\learn_lessons\HighScoreKit\BruteForceSearch\Solution42840.cs" />
+    <Compile Include="Project\learn_lessons\HighScoreKit\GreedySearch\Solution42862.cs" />
+    <Compile Include="Project\learn_lessons\HighScoreKit\Hash\Solution42578.cs" />
+    <Compile Include="Project\learn_lessons\HighScoreKit\Hash\Solution42579.cs" />
+    <Compile Include="Project\learn_lessons\HighScoreKit\Sort\Solution42748.cs" />
+    <Compile Include="Project\learn_lessons\HighScoreKit\StackQueue\Solution42583.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12901.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12903.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12910.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12912.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12915.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12917.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12918.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12919.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12921.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12922.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12925.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12926.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12928.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12930.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12932.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12933.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12934.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12935.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12937.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12940.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12943.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12944.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12947.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12948.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12950.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12954.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12969.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12977.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution12982.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution70128.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution76501.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution77484.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution81301.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level1\Solution86051.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution178870.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution181187.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution181188.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42585.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42586.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42587.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42588.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42746.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42747.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42839.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42860.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution42883.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level2\Solution49993.cs" />
+    <Compile Include="Project\learn_lessons\Levels\Level3\Solution161988.cs" />
+    <Compile Include="Project\Solution00000.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

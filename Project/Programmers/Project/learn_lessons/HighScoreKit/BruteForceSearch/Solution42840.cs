@@ -7,23 +7,23 @@ using System.Collections.Generic;
 
 public class Solution42840
 {
-    public Solution42840()
+    public Solution42840 ()
     {
-        new Solution().solution(new[] { 1, 2, 3, 4, 5 });
+        new Solution ().solution (new[] { 1, 2, 3, 4, 5 });
         //new Solution().solution(new[] { 1, 3, 2, 4, 2 });
     }
 
     //====================================//
     public class Solution
     {
-        public int[] solution(int[] answers)
+        public int[] solution (int[] answers)
         {
             int[][] hitMap = new int[][] {
                 new[]{ 1,2,3,4,5,},
                 new[]{ 2,1,2,3,2,4,2,5},
                 new[]{ 3,3,1,1,2,2,4,4,5,5} };
             int[] hit = new int[hitMap.Length];
-            List<int> an = new List<int>();
+            List<int> an = new List<int> ();
 
             for (int i = 0; i < answers.Length; i++)
             {
@@ -35,22 +35,22 @@ public class Solution42840
                     }
                 }
             }
-            int max = Math.Max(hit[0], Math.Max(hit[1], hit[2]));
+            int max = Math.Max (hit[0], Math.Max (hit[1], hit[2]));
 
             if (hit[0] == max)
             {
-                an.Add(1);
+                an.Add (1);
             }
             if (hit[1] == max)
             {
-                an.Add(2);
+                an.Add (2);
             }
             if (hit[2] == max)
             {
-                an.Add(3);
+                an.Add (3);
             }
 
-            return an.ToArray();
+            return an.ToArray ();
         }
     }
     //====================================//
