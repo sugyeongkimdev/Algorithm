@@ -37,10 +37,23 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Baekjoon.cs" />
+    <Compile Include="Project\Baekjoon.cs" />
+    <Compile Include="Project\Baekjoon00000.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10869.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon1008.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10926.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10998.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon1001.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon1000.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon18108.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10430.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon11382.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10171.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon2588.cs" />
+    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon2557.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Project\" />
+    <Folder Include="Project\Script\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
