@@ -39,18 +39,26 @@
   <ItemGroup>
     <Compile Include="Project\Baekjoon.cs" />
     <Compile Include="Project\Baekjoon00000.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10869.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon1008.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10926.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10998.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon1001.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon1000.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon18108.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10430.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon11382.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon10171.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon2588.cs" />
-    <Compile Include="Project\단계\입출력과 사칙연산\Baekjoon2557.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10869.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1008.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10926.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10998.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1001.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1000.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon18108.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10430.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon11382.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10171.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10172.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon2588.cs" />
+    <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon2557.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2480.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2525.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2884.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon14681.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2753.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon9498.cs" />
+    <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon1330.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Project\Script\" />
