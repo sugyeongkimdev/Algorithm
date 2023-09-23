@@ -10,6 +10,7 @@
 
 > + [프로그래머스](https://programmers.co.kr/)
 > + [백준](https://www.acmicpc.net/)
+>   + [(BOJ 작동 원리)](https://www.acmicpc.net/blog/view/55)
 >   + [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 >   + [구현/실버](https://solved.ac/search?query=%23implementation+*s)
 > + [릿코드](https://leetcode.com/)
