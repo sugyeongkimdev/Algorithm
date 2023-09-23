@@ -9,7 +9,5 @@ public class Program
 
         // 백준 실행
         // new Baekjoon00000 ();
-
-        new Baekjoon2480 ();
     }
 }

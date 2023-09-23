@@ -39,6 +39,18 @@
   <ItemGroup>
     <Compile Include="Project\Baekjoon.cs" />
     <Compile Include="Project\Baekjoon00000.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon10951.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon10950.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon11022.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon2439.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon2438.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon10952.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon25314.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon25304.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon15552.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon11021.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon8393.cs" />
+    <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon2739.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10869.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1008.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10926.cs" />
