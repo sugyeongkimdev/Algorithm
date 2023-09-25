@@ -39,6 +39,10 @@
   <ItemGroup>
     <Compile Include="Project\Baekjoon.cs" />
     <Compile Include="Project\Baekjoon00000.cs" />
+    <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon1546.cs" />
+    <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon3052.cs" />
+    <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon10811.cs" />
+    <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon5597.cs" />
     <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon10813.cs" />
     <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon10810.cs" />
     <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon2562.cs" />
