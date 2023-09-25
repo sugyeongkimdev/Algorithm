@@ -63,3 +63,25 @@
         Console.WriteLine (blank + star);
     }
 ```
+
+```c#
+    // 진법 변환
+    string str = "1111" // "1111(2)";
+    // string str = "8888" // "8888(8)";
+    // string str = "FFFF" // "FFFF(16)";
+    // string str = "ZZZZ" // "ZZZZ(36)";
+    int bit = 2;
+    double num = 0;
+    for (int i = 0; i < str.Length; i++)
+    {
+        num += Math.Pow (bit, i) * GetNum (str[i]);
+        // or
+        // num += num * (bit - 1) + GetNum (str[i]);
+    }        
+    int GetNum (char c)
+    {
+        if (c >= '0' && c <= '9') return c - '0';
+        if (c >= 'A' && c <= 'Z') return c - 'A' + 10;
+        return 0;
+    }
+```
