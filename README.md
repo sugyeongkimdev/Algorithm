@@ -44,3 +44,22 @@
         Console.WriteLine ();
     }
 ```
+
+```c#
+    //    *
+    //   ***
+    //  *****
+    // *******
+    //*********
+    // *******
+    //  *****
+    //   ***
+    //    *
+    int num = 5;
+    for (int i = num - 1; i > -num; i--)
+    {
+        string blank = new string (' ', Math.Abs (i));
+        string star = new string ('*', (2 * num) - 1 - (2 * Math.Abs (i)));
+        Console.WriteLine (blank + star);
+    }
+```
