@@ -72,6 +72,11 @@
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon11021.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon8393.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon2739.cs" />
+    <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon1157.cs" />
+    <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon2444.cs" />
+    <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon10988.cs" />
+    <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon3003.cs" />
+    <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon25083.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10869.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1008.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10926.cs" />
