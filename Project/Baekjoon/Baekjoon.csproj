@@ -49,6 +49,17 @@
     <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon10818.cs" />
     <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon10871.cs" />
     <Compile Include="Project\단계별로 풀어보기\1차원 배열\Baekjoon10951.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon11718.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon5622.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon2908.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon1152.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon2675.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon10809.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon11720.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon11654.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon9086.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon2743.cs" />
+    <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon27866.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon10951.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon10950.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon11022.cs" />
