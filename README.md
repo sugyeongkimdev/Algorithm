@@ -65,23 +65,40 @@
 ```
 
 ```c#
-    // 진법 변환
-    string str = "1111" // "1111(2)";
-    // string str = "8888" // "8888(8)";
-    // string str = "FFFF" // "FFFF(16)";
-    // string str = "ZZZZ" // "ZZZZ(36)";
-    int bit = 2;
+    // 10진법으로 변환 ((n)bit -> (10))
+    string str = "ZZZZZ";    // 1111(2) ~ ZZZZ(36)
+    int bit = 36;            // 2 ~ 36
     double num = 0;
     for (int i = 0; i < str.Length; i++)
     {
         num += Math.Pow (bit, i) * GetNum (str[i]);
         // or
         // num += num * (bit - 1) + GetNum (str[i]);
-    }        
+    }
+    onsole.WriteLine (num); // 60466175
+
     int GetNum (char c)
     {
-        if (c >= '0' && c <= '9') return c - '0';
-        if (c >= 'A' && c <= 'Z') return c - 'A' + 10;
-        return 0;
+        return c >= '0' && c <= '9' ? c - '0' : c - 'A' + 10;
+    }
+```
+```c#
+    // n진법으로 변환 (10 -> (n)bit)
+    int value = "60466175"; // ZZZZZ(36) 10진법 값
+    int bit = 36;           // 2 ~ 36
+    var sb = new System.Text.StringBuilder ();
+    while (value >= b)
+    {
+        int r = value % bit;
+        value /= bit;
+
+        sb.Insert (0, GetChar (r));
+    }
+    sb.Insert (0, GetChar (value)); 
+    onsole.WriteLine (sb);  // ZZZZZ
+
+    int GetNum (char c)
+    {
+        return c >= '0' && c <= '9' ? c - '0' : c - 'A' + 10;
     }
 ```
