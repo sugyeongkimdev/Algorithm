@@ -104,6 +104,13 @@
     <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2753.cs" />
     <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon9498.cs" />
     <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon1330.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon11005.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon1193.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon2869.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon2292.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon2903.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon2720.cs" />
+    <Compile Include="Project\단계별로 풀어보기\일반 수학 1\Baekjoon2745.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Project\Script\" />
