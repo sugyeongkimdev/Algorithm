@@ -84,6 +84,12 @@
     <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon1316.cs" />
     <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon3003.cs" />
     <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon25083.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon2581.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon2501.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon1978.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon11653.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon9506.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon5086.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10869.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1008.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10926.cs" />
