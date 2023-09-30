@@ -53,6 +53,14 @@
     <Compile Include="Project\단계별로 풀어보기\2차원 배열\Baekjoon2566.cs" />
     <Compile Include="Project\단계별로 풀어보기\2차원 배열\Baekjoon10798.cs" />
     <Compile Include="Project\단계별로 풀어보기\2차원 배열\Baekjoon2738.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon10101.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon5073.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon14215.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon9063.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon15894.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon3009.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon1085.cs" />
+    <Compile Include="Project\단계별로 풀어보기\기하 직사각형과 삼각형\Baekjoon27323.cs" />
     <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon11718.cs" />
     <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon5622.cs" />
     <Compile Include="Project\단계별로 풀어보기\문자열\Baekjoon2908.cs" />
@@ -88,8 +96,8 @@
     <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon2501.cs" />
     <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon1978.cs" />
     <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon11653.cs" />
-    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon9506.cs" />
     <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon5086.cs" />
+    <Compile Include="Project\단계별로 풀어보기\약수, 배수와 소수\Baekjoon9506.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10869.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon1008.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10926.cs" />
