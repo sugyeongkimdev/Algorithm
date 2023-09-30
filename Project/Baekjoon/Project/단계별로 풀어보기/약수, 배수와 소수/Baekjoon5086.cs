@@ -1,43 +1,22 @@
 ﻿// 배수와 약수
-// https://www.acmicpc.net/problem/9506
+// https://www.acmicpc.net/problem/5086
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
-public class Baekjoon9506
+public class Baekjoon5086
 {
-    public Baekjoon9506 ()
+    public Baekjoon5086 ()
     {
-        while (int.TryParse (Console.ReadLine (), out int num))
+        string str;
+        while (string.IsNullOrEmpty (str = Console.ReadLine ()) == false)
         {
-            if (num <= 0)
+            var arr = str.Split ();
+            int a = int.Parse (arr[0]);
+            int b = int.Parse (arr[1]);
+            if (a != 0 && b != 0)
             {
-                continue;
+                Console.WriteLine (b % a == 0 ? "factor" : a % b == 0 ? "multiple" : "neither");
             }
-            var arr = DivisorArr (num);
-            int sum = arr.Sum ();
-            if (num == sum)
-            {
-                Console.WriteLine ($"{num} = {string.Join (" + ", arr)}");
-            }
-            else
-            {
-                Console.WriteLine ($"{num} is NOT perfect.");
-            }
-        }
-        // 약수모음 반환
-        List<int> DivisorArr (int n)
-        {
-            List<int> list = new List<int> ();
-            for (int i = 1; i < n; i++)
-            {
-                if (n % i == 0)
-                {
-                    list.Add (i);
-                }
-            }
-            return list;
         }
     }
 }
