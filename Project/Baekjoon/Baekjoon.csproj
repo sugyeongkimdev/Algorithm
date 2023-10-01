@@ -84,6 +84,7 @@
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon11021.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon8393.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon2739.cs" />
+    <Compile Include="Project\단계별로 풀어보기\시간 복잡도\Baekjoon24262.cs" />
     <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon1157.cs" />
     <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon25206.cs" />
     <Compile Include="Project\단계별로 풀어보기\심화1\Baekjoon2941.cs" />
