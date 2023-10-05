@@ -14,7 +14,8 @@ public class Baekjoon24262
             return A[i]; # 코드1
         }
          */
-        // 위 코드는 수행횟수가 무조건 1이며 실행시간은 0이다
+
+        // O(1)
         Console.WriteLine ("1");
         Console.WriteLine ("0");
     }
