@@ -84,6 +84,12 @@
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon11021.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon8393.cs" />
     <Compile Include="Project\단계별로 풀어보기\반복문\Baekjoon2739.cs" />
+    <Compile Include="Project\단계별로 풀어보기\브루트 포스%28무차별대입%29\Baekjoon2839.cs" />
+    <Compile Include="Project\단계별로 풀어보기\브루트 포스%28무차별대입%29\Baekjoon1436.cs" />
+    <Compile Include="Project\단계별로 풀어보기\브루트 포스%28무차별대입%29\Baekjoon1018.cs" />
+    <Compile Include="Project\단계별로 풀어보기\브루트 포스%28무차별대입%29\Baekjoon2231.cs" />
+    <Compile Include="Project\단계별로 풀어보기\브루트 포스%28무차별대입%29\Baekjoon19532.cs" />
+    <Compile Include="Project\단계별로 풀어보기\브루트 포스%28무차별대입%29\Baekjoon2798.cs" />
     <Compile Include="Project\단계별로 풀어보기\시간 복잡도\Baekjoon24313.cs" />
     <Compile Include="Project\단계별로 풀어보기\시간 복잡도\Baekjoon24267.cs" />
     <Compile Include="Project\단계별로 풀어보기\시간 복잡도\Baekjoon24266.cs" />
