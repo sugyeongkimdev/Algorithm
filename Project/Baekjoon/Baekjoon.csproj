@@ -124,6 +124,9 @@
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon10172.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon2588.cs" />
     <Compile Include="Project\단계별로 풀어보기\입출력과 사칙연산\Baekjoon2557.cs" />
+    <Compile Include="Project\단계별로 풀어보기\정렬\Baekjoon25305.cs" />
+    <Compile Include="Project\단계별로 풀어보기\정렬\Baekjoon2587.cs" />
+    <Compile Include="Project\단계별로 풀어보기\정렬\Baekjoon2750.cs" />
     <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2480.cs" />
     <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2525.cs" />
     <Compile Include="Project\단계별로 풀어보기\조건문\Baekjoon2884.cs" />
