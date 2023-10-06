@@ -27,8 +27,8 @@
 > #
 
 > ## [정렬](https://namu.wiki/w/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-> + 버블정렬() [ O(n(n-1)/2) ... O(n²) ]
->   + 쓰는 이유 : 구현이 간단해서, 효율은 최악에 가까움
+> + 버블정렬 [ O(n(n-1)/2) ... O(n²) ]
+>   + 쓰는 이유 : 구현이 '제일' 간단해서, 효율은 최악에 가까움
 >```
 >   void BubbleSort (int[] arr)
 >   {
@@ -46,6 +46,33 @@
 >       }
 >   }
 >```
+> + 선택정렬 [ O(n(n-1)/2) ... O(n²) ]
+>   + 버블정렬보다 조금 더 나은 수준
+>   + 차라리 버블정렬로 간단하게 구현하던가 다른걸 써야함
+>```
+>   void SelectSort (int[] arr)
+>   {
+>       for (int i = 0; i < arr.Length - 1; i++)
+>       {
+>           int select = i; // 최소 초기화
+>           for (int j = i + 1; j < arr.Length; j++)
+>           {
+>               // 최소값 선택
+>               if (arr[j] < arr[select])
+>               {
+>                   select = j;
+>               }
+>           }
+>           // i index와 선택된 최소값과 스왑
+>           int tmp = arr[select];
+>           arr[select] = arr[i];
+>           arr[i] = tmp;
+>       }
+>   }
+>```
+
+
+
 
 ```c#
     // 2차 배열 상자 90도 회전 (정사각형만 가능)
